@@ -1,0 +1,2 @@
+# C_Sharp_Iliskili_Tablolar_E_Okul_Benzeri_Uygulama
+ C#' da İlişkisel tablolar konuusunun kavranması açısından, birbiri ile ilişkili tabloların kullanıldığı E-Okul benzeri bir uygulama geliştirilmiştir. Geliştirilen bu proje örnek bir e-okul projesidir ve giriş arayüzünde Öğrenciler ve Öğretmenler girişleri bulunmaktadır. Öğrenciler, okul numaraları ile sisteme giriş yapabilmektedir. Öğrenciler aldıkları derslere ait olan notları görebilmektedir. Öğretmenler, öğrencilere ait notları girebilmekte, yeni kulip ekleyebilmektedir.
